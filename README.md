@@ -1,5 +1,5 @@
-# c-
-Some c sharp work
+# CSharp
+Some c sharp work did in Visual Studio Code. (You can use .cs)
 
 Some of them are in french depending on when I did them.
 
