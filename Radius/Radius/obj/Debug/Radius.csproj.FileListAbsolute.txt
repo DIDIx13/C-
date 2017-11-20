@@ -1,0 +1,7 @@
+M:\226A\Radius\Radius\bin\Debug\Radius.exe.config
+M:\226A\Radius\Radius\bin\Debug\Radius.exe
+M:\226A\Radius\Radius\bin\Debug\Radius.pdb
+M:\226A\Radius\Radius\obj\Debug\Radius.csprojResolveAssemblyReference.cache
+M:\226A\Radius\Radius\obj\Debug\Radius.csproj.CoreCompileInputs.cache
+M:\226A\Radius\Radius\obj\Debug\Radius.exe
+M:\226A\Radius\Radius\obj\Debug\Radius.pdb
