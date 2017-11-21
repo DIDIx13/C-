@@ -1,0 +1,15 @@
+M:\404\Monstre\bin\Debug\Monstre.exe.config
+M:\404\Monstre\obj\Debug\Monstre.csprojResolveAssemblyReference.cache
+M:\404\Monstre\bin\Debug\Monstre.exe
+M:\404\Monstre\bin\Debug\Monstre.pdb
+M:\404\Monstre\obj\Debug\Monstre.exe
+M:\404\Monstre\obj\Debug\Monstre.pdb
+F:\Prog\Monstre\bin\Debug\Monstre.exe.config
+F:\Prog\Monstre\obj\Debug\Monstre.exe
+F:\Prog\Monstre\obj\Debug\Monstre.pdb
+F:\Prog\Monstre\bin\Debug\Monstre.exe
+F:\Prog\Monstre\bin\Debug\Monstre.pdb
+F:\Prog\Monstre\obj\Debug\Monstre.csprojResolveAssemblyReference.cache
+D:\Prog\Monstre\bin\Debug\Monstre.exe.config
+D:\Prog\Monstre\obj\Debug\Monstre.exe
+D:\Prog\Monstre\obj\Debug\Monstre.pdb
