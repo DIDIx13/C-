@@ -1,0 +1,17 @@
+M:\404\MazeGame\bin\Release\MazeGame.exe.config
+M:\404\MazeGame\bin\Release\MazeGame.exe
+M:\404\MazeGame\bin\Release\MazeGame.pdb
+M:\404\MazeGame\obj\Release\MazeGame.Form1.resources
+M:\404\MazeGame\obj\Release\MazeGame.Properties.Resources.resources
+M:\404\MazeGame\obj\Release\MazeGame.csproj.GenerateResource.Cache
+M:\404\MazeGame\obj\Release\MazeGame.exe
+M:\404\MazeGame\obj\Release\MazeGame.pdb
+F:\Prog\MazeGame\bin\Release\MazeGame.exe.config
+F:\Prog\MazeGame\obj\Release\MazeGame.exe
+F:\Prog\MazeGame\obj\Release\MazeGame.pdb
+F:\Prog\MazeGame\bin\Release\MazeGame.exe
+F:\Prog\MazeGame\bin\Release\MazeGame.pdb
+F:\Prog\MazeGame\obj\Release\MazeGame.csprojResolveAssemblyReference.cache
+F:\Prog\MazeGame\obj\Release\MazeGame.Form1.resources
+F:\Prog\MazeGame\obj\Release\MazeGame.Properties.Resources.resources
+F:\Prog\MazeGame\obj\Release\MazeGame.csproj.GenerateResource.Cache
