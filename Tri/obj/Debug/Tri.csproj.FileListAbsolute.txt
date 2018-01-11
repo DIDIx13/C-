@@ -1,0 +1,6 @@
+M:\226A\Tri\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
+M:\226A\Tri\Tri\bin\Debug\Tri.exe.config
+M:\226A\Tri\Tri\bin\Debug\Tri.exe
+M:\226A\Tri\Tri\bin\Debug\Tri.pdb
+M:\226A\Tri\Tri\obj\Debug\Tri.exe
+M:\226A\Tri\Tri\obj\Debug\Tri.pdb
