@@ -35,12 +35,11 @@ namespace Tri
         public static void SortingTab(int[] Tab)
         {
             bool b = false;
-            int i = 0;
 
-            while (b == false && i <= Tab.Length)
+            while (b == false)
             {
                 b = true;
-                for (int y = 0; y < Tab.Length - i - 1; y++)
+                for (int y = 0; y < Tab.Length - 1; y++)
                 {
                     if (Tab[y] > Tab[y + 1])
                     {
@@ -58,11 +57,6 @@ namespace Tri
 
                 Console.WriteLine("\t[{0}]:\t{1}", i, Tab.GetValue(i));
             }
-
-            /*for(int i = 0; i < Tab.Length; i++)
-            {
-                Console.Write("{0}, ", Tab[i]);
-            }*/
         }
     }
 }
