@@ -1,0 +1,18 @@
+\\s2.rpn.ch\home\CPLN\Eleves\ET\CummaudoLu\Atelier Lambert\Tris\Tri bulle avec témoin\bin\Debug\Tri bulle avec témoin.exe.config
+\\s2.rpn.ch\home\CPLN\Eleves\ET\CummaudoLu\Atelier Lambert\Tris\Tri bulle avec témoin\bin\Debug\Tri bulle avec témoin.exe
+\\s2.rpn.ch\home\CPLN\Eleves\ET\CummaudoLu\Atelier Lambert\Tris\Tri bulle avec témoin\bin\Debug\Tri bulle avec témoin.pdb
+\\s2.rpn.ch\home\CPLN\Eleves\ET\CummaudoLu\Atelier Lambert\Tris\Tri bulle avec témoin\obj\Debug\Tri bulle avec témoin.csprojResolveAssemblyReference.cache
+\\s2.rpn.ch\home\CPLN\Eleves\ET\CummaudoLu\Atelier Lambert\Tris\Tri bulle avec témoin\obj\Debug\Tri bulle avec témoin.exe
+\\s2.rpn.ch\home\CPLN\Eleves\ET\CummaudoLu\Atelier Lambert\Tris\Tri bulle avec témoin\obj\Debug\Tri bulle avec témoin.pdb
+M:\Atelier\Lambert\Tris\Tris\Tri bulle avec témoin\bin\Debug\Tri bulle avec témoin.exe.config
+M:\Atelier\Lambert\Tris\Tris\Tri bulle avec témoin\bin\Debug\Tri bulle avec témoin.exe
+M:\Atelier\Lambert\Tris\Tris\Tri bulle avec témoin\bin\Debug\Tri bulle avec témoin.pdb
+M:\Atelier\Lambert\Tris\Tris\Tri bulle avec témoin\obj\Debug\Tri bulle avec témoin.csprojResolveAssemblyReference.cache
+M:\Atelier\Lambert\Tris\Tris\Tri bulle avec témoin\obj\Debug\Tri bulle avec témoin.exe
+M:\Atelier\Lambert\Tris\Tris\Tri bulle avec témoin\obj\Debug\Tri bulle avec témoin.pdb
+\\s2.rpn.ch\home\CPLN\Eleves\ET\AmeliDa\226A\Tri bulle avec témoin\bin\Debug\Tri bulle avec témoin.exe.config
+\\s2.rpn.ch\home\CPLN\Eleves\ET\AmeliDa\226A\Tri bulle avec témoin\bin\Debug\Tri bulle avec témoin.exe
+\\s2.rpn.ch\home\CPLN\Eleves\ET\AmeliDa\226A\Tri bulle avec témoin\bin\Debug\Tri bulle avec témoin.pdb
+\\s2.rpn.ch\home\CPLN\Eleves\ET\AmeliDa\226A\Tri bulle avec témoin\obj\Debug\Tri bulle avec témoin.csprojResolveAssemblyReference.cache
+\\s2.rpn.ch\home\CPLN\Eleves\ET\AmeliDa\226A\Tri bulle avec témoin\obj\Debug\Tri bulle avec témoin.exe
+\\s2.rpn.ch\home\CPLN\Eleves\ET\AmeliDa\226A\Tri bulle avec témoin\obj\Debug\Tri bulle avec témoin.pdb
