@@ -1,0 +1,7 @@
+C:\Users\AmeliDa\Documents\Visual Studio 2017\Projects\Auptic\Auptic\bin\Debug\Auptic.exe.config
+C:\Users\AmeliDa\Documents\Visual Studio 2017\Projects\Auptic\Auptic\bin\Debug\Auptic.exe
+C:\Users\AmeliDa\Documents\Visual Studio 2017\Projects\Auptic\Auptic\bin\Debug\Auptic.pdb
+C:\Users\AmeliDa\Documents\Visual Studio 2017\Projects\Auptic\Auptic\obj\Debug\Auptic.csprojResolveAssemblyReference.cache
+C:\Users\AmeliDa\Documents\Visual Studio 2017\Projects\Auptic\Auptic\obj\Debug\Auptic.csproj.CoreCompileInputs.cache
+C:\Users\AmeliDa\Documents\Visual Studio 2017\Projects\Auptic\Auptic\obj\Debug\Auptic.exe
+C:\Users\AmeliDa\Documents\Visual Studio 2017\Projects\Auptic\Auptic\obj\Debug\Auptic.pdb
