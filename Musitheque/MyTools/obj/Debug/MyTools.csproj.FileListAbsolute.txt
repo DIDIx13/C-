@@ -1,0 +1,9 @@
+M:\2eme\Module\ICT-226a\Leçon 8\Musitheque\MyTools\bin\Debug\MyTools.exe.config
+M:\2eme\Module\ICT-226a\Leçon 8\Musitheque\MyTools\bin\Debug\MyTools.exe
+M:\2eme\Module\ICT-226a\Leçon 8\Musitheque\MyTools\bin\Debug\MyTools.pdb
+M:\2eme\Module\ICT-226a\Leçon 8\Musitheque\MyTools\obj\Debug\MyTools.csprojResolveAssemblyReference.cache
+M:\2eme\Module\ICT-226a\Leçon 8\Musitheque\MyTools\obj\Debug\MyTools.Form1.resources
+M:\2eme\Module\ICT-226a\Leçon 8\Musitheque\MyTools\obj\Debug\MyTools.Properties.Resources.resources
+M:\2eme\Module\ICT-226a\Leçon 8\Musitheque\MyTools\obj\Debug\MyTools.csproj.GenerateResource.Cache
+M:\2eme\Module\ICT-226a\Leçon 8\Musitheque\MyTools\obj\Debug\MyTools.exe
+M:\2eme\Module\ICT-226a\Leçon 8\Musitheque\MyTools\obj\Debug\MyTools.pdb
