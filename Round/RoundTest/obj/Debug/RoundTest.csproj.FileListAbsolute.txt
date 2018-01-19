@@ -1,0 +1,16 @@
+M:\226A\Round\RoundTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+M:\226A\Round\RoundTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+M:\226A\Round\RoundTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+M:\226A\Round\RoundTest\bin\Debug\RoundTest.dll
+M:\226A\Round\RoundTest\bin\Debug\RoundTest.pdb
+M:\226A\Round\RoundTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+M:\226A\Round\RoundTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+M:\226A\Round\RoundTest\bin\Debug\Round.exe
+M:\226A\Round\RoundTest\bin\Debug\Round.pdb
+M:\226A\Round\RoundTest\bin\Debug\Round.exe.config
+M:\226A\Round\RoundTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+M:\226A\Round\RoundTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+M:\226A\Round\RoundTest\obj\Debug\RoundTest.csprojResolveAssemblyReference.cache
+M:\226A\Round\RoundTest\obj\Debug\RoundTest.csproj.CoreCompileInputs.cache
+M:\226A\Round\RoundTest\obj\Debug\RoundTest.dll
+M:\226A\Round\RoundTest\obj\Debug\RoundTest.pdb

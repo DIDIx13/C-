@@ -1,0 +1,6 @@
+M:\226A\Round\Round\bin\Debug\Round.exe.config
+M:\226A\Round\Round\bin\Debug\Round.exe
+M:\226A\Round\Round\bin\Debug\Round.pdb
+M:\226A\Round\Round\obj\Debug\Round.csproj.CoreCompileInputs.cache
+M:\226A\Round\Round\obj\Debug\Round.exe
+M:\226A\Round\Round\obj\Debug\Round.pdb
