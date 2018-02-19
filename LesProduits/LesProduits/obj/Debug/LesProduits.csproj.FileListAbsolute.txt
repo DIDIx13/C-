@@ -1,0 +1,6 @@
+M:\226B\LesProduits\LesProduits\obj\Debug\LesProduits.csprojResolveAssemblyReference.cache
+M:\226B\LesProduits\LesProduits\bin\Debug\LesProduits.exe.config
+M:\226B\LesProduits\LesProduits\bin\Debug\LesProduits.exe
+M:\226B\LesProduits\LesProduits\bin\Debug\LesProduits.pdb
+M:\226B\LesProduits\LesProduits\obj\Debug\LesProduits.exe
+M:\226B\LesProduits\LesProduits\obj\Debug\LesProduits.pdb
