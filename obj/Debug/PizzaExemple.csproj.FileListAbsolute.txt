@@ -1,7 +1,0 @@
-D:\sacchettip\226b\PizzaExemple\bin\Debug\PizzaExemple.exe.config
-D:\sacchettip\226b\PizzaExemple\bin\Debug\PizzaExemple.exe
-D:\sacchettip\226b\PizzaExemple\bin\Debug\PizzaExemple.pdb
-D:\sacchettip\226b\PizzaExemple\obj\Debug\PizzaExemple.csprojResolveAssemblyReference.cache
-D:\sacchettip\226b\PizzaExemple\obj\Debug\PizzaExemple.csproj.CoreCompileInputs.cache
-D:\sacchettip\226b\PizzaExemple\obj\Debug\PizzaExemple.exe
-D:\sacchettip\226b\PizzaExemple\obj\Debug\PizzaExemple.pdb
