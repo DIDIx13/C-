@@ -1,5 +1,0 @@
-M:\226B\PizzaTDD\bin\Debug\PizzaExemple.exe.config
-M:\226B\PizzaTDD\bin\Debug\PizzaExemple.exe
-M:\226B\PizzaTDD\bin\Debug\PizzaExemple.pdb
-M:\226B\PizzaTDD\obj\Debug\PizzaExemple.exe
-M:\226B\PizzaTDD\obj\Debug\PizzaExemple.pdb
