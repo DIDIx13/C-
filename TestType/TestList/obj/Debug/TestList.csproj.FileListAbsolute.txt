@@ -1,0 +1,6 @@
+M:\226B\TestList\TestList\bin\Debug\TestList.exe.config
+M:\226B\TestList\TestList\bin\Debug\TestList.exe
+M:\226B\TestList\TestList\bin\Debug\TestList.pdb
+M:\226B\TestList\TestList\obj\Debug\TestList.csprojResolveAssemblyReference.cache
+M:\226B\TestList\TestList\obj\Debug\TestList.exe
+M:\226B\TestList\TestList\obj\Debug\TestList.pdb
