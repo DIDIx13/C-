@@ -10,7 +10,7 @@ namespace Hello
     {
         public static void ShowWeekEnd()
         {
-            Console.WriteLine("Good wee-end" + Environment.UserName);
+            Console.WriteLine("Good week-end" + Environment.UserName);
         }
         public static void ShowWeekDay()
         {
