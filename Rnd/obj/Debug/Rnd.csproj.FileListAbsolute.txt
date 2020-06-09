@@ -1,0 +1,6 @@
+c:\users\didix13\documents\visual studio 2015\Projects\Rnd\bin\Debug\Rnd.exe.config
+c:\users\didix13\documents\visual studio 2015\Projects\Rnd\bin\Debug\Rnd.exe
+c:\users\didix13\documents\visual studio 2015\Projects\Rnd\bin\Debug\Rnd.pdb
+c:\users\didix13\documents\visual studio 2015\Projects\Rnd\obj\Debug\Rnd.csprojResolveAssemblyReference.cache
+c:\users\didix13\documents\visual studio 2015\Projects\Rnd\obj\Debug\Rnd.exe
+c:\users\didix13\documents\visual studio 2015\Projects\Rnd\obj\Debug\Rnd.pdb
