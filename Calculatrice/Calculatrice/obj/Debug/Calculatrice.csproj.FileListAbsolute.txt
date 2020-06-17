@@ -1,0 +1,6 @@
+C:\Users\DIDIx13\Documents\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\DIDIx13\Documents\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\DIDIx13\Documents\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\DIDIx13\Documents\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\DIDIx13\Documents\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\DIDIx13\Documents\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
